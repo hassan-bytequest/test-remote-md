@@ -136,11 +136,6 @@ Forms allow user input and are created with the `<form>` tag.
 
 This is a basic guide to HTML to help you get started. Happy coding!
 
-
-<iframe
-  className="border rounded-lg border-neutral-500"
-  width="100%"
-  height="450"
+<Figma
   src="https://embed.figma.com/design/0b9ToFq8JtZRFa7ZkzR7tx/Columbia-college?node-id=0-1&embed-host=share"
-  allowFullScreen
 />
