@@ -1,4 +1,4 @@
-# HTML Basics Tutorial 2
+# HTML Basics Tutorial
 
 ## Table of Contents
 1. [Introduction to HTML](#introduction-to-html)
