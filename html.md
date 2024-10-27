@@ -136,6 +136,4 @@ Forms allow user input and are created with the `<form>` tag.
 
 This is a basic guide to HTML to help you get started. Happy coding!
 
-<Figma
-  src="https://embed.figma.com/design/0b9ToFq8JtZRFa7ZkzR7tx/Columbia-college?node-id=0-1&embed-host=share"
-/>
+
